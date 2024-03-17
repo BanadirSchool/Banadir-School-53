@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Mohamed Abdi Abduollahi</h1>
+            <h1> Mohamed Abdi Abdullahi</h1>
             <h2> ID: 0053</h2>
             <table border="25">
                 <tr>
@@ -16,24 +16,24 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td>63 
+                        <td> D
                         <td> COMPUTER</td>
                     </td>
            
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> Lama Hayo 
-                        <td>Z
+                    <td> 65 
+                        <td>D+
                     </td>
                     <td> COMPUTER
                     </td>
           
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td>75
+                        <td> C+
                     </td>
                     <td> COMPUTER
                     </td>
@@ -41,15 +41,15 @@
                
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td>Lama Hayo </td>
-                        <td> Z
+                        <td>96 </td>
+                        <td> A+
                         <td> COMPUTER
                         </td>
                
                     <tr>
                         <td> SECURITY</td>
-                        <td>Lama Hayo </td>
-                        <td> Z
+                        <td>70 </td>
+                        <td> C
                         <td> COMPUTER
                         </td>
                    
